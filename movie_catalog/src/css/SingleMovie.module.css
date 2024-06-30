@@ -1,0 +1,20 @@
+.movieSection {
+    margin:10% 25%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.8);
+    background-color: white;
+    border-radius: 5px;
+}
+.image{
+    
+    border-radius: 5px;
+    justify-content:start;
+    padding: 5px;
+    width: 50%;
+}
+
+.cardContent{
+    /* border: 5px solid red; */
+}
